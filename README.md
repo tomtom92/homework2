@@ -18,4 +18,4 @@ Studente: [Thomas Negrelli]
 
 5. Eseguire comando (nuovo terminale): rosrun rviz rviz -d `rospack find turtlebot3_navigation`/rviz/turtlebot3_nav.rviz
 
-Il video è presente nella repository
+Il video si può vedere tramite il link: https://drive.google.com/file/d/1W0lqKpt3WHa3aRtH4Z3jAwSuFCslW_f4/view?usp=sharing
