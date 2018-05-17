@@ -16,6 +16,6 @@ Studente: [Thomas Negrelli]
 
 4. Eseguire comando (nuovo terminale): roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 
-5. Eseguire comando (nuovo terminale): rosrun rviz rviz -d `rospack find turtlebot3_slam`/rviz/turtlebot3_slam.rviz
+5. Eseguire comando (nuovo terminale): rosrun rviz rviz -d `rospack find turtlebot3_navigation`/rviz/turtlebot3_nav.rviz
 
 Il video è presente nella repository
