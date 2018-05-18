@@ -1,6 +1,6 @@
 cp Cv1_garden.world ~/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/.
 cp turtlebot3_homework2.launch ~/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/launch/.
-cp -r homework2 ~/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/.
+cp map.yaml ~/home
 
 echo Select your turtlebot model
 echo export TURTLEBOT3_MODEL=waffle
